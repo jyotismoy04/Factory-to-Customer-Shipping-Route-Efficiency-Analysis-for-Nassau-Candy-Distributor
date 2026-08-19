@@ -1,2 +1,6 @@
 # Factory-to-Customer-Shipping-Route-Efficiency-Analysis-for-Nassau-Candy-Distributor
-An interactive Shipping Efficiency and Lead-Time Performance Analysis project using Power BI and Excel, focused on route performance, regional bottlenecks, ship mode comparison, and interactive logistics analytics.
+## Project objective 
+The objective of this project is to analyze shipping efficiency and lead-time performance using Excel data and Microsoft Power BI. The project evaluates route-level, regional, and ship-mode performance, identifies potential bottlenecks, and provides an interactive dashboard with filters and drill-down capabilities to support data-driven decision-making.
+
+## Dataset 
+-<a href="https://github.com/jyotismoy04/Factory-to-Customer-Shipping-Route-Efficiency-Analysis-for-Nassau-Candy-Distributor/blob/main/Nassau.xlsx">Dataset</a>
