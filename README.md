@@ -171,3 +171,176 @@ The dashboard supports:
 Shipping lead time is calculated as:
 ```text
 Lead Time = Ship Date - Order Date
+
+
+---
+
+## 📊 Power BI Dashboard
+
+The Power BI version provides an interactive business intelligence environment for logistics analysis.
+
+The dashboard includes:
+
+KPI cards
+Route efficiency analysis
+Route leaderboard
+US shipping heatmap
+Regional bottleneck analysis
+Ship mode comparison
+State-level analysis
+Order-level shipment analysis
+Date filters
+Region/State filters
+Ship Mode filters
+Lead-time threshold controls
+
+
+
+## 🔍 Analytical Approach
+
+The project follows the following analytical workflow:
+
+Raw Shipment Data
+       ↓
+Data Cleaning
+       ↓
+Data Type Validation
+       ↓
+Lead-Time Calculation
+       ↓
+Exploratory Data Analysis
+       ↓
+Route Analysis
+       ↓
+Regional Analysis
+       ↓
+Ship Mode Analysis
+       ↓
+KPI Development
+       ↓
+Interactive Dashboard
+       ↓
+Operational Insights
+       ↓
+Recommendations
+
+
+
+## 🔍 Analytical Approach
+
+The project follows the following analytical workflow:
+
+Raw Shipment Data
+       ↓
+Data Cleaning
+       ↓
+Data Type Validation
+       ↓
+Lead-Time Calculation
+       ↓
+Exploratory Data Analysis
+       ↓
+Route Analysis
+       ↓
+Regional Analysis
+       ↓
+Ship Mode Analysis
+       ↓
+KPI Development
+       ↓
+Interactive Dashboard
+       ↓
+Operational Insights
+       ↓
+Recommendations
+
+
+📌 Business Insights
+
+The dashboard is designed to help stakeholders:
+
+Identify underperforming routes
+Detect regional bottlenecks
+Compare shipping methods
+Monitor shipment delays
+Prioritize operational improvement areas
+Evaluate route efficiency
+Investigate individual shipment records
+💼 Business Recommendations
+
+Based on the analytical framework, organizations can:
+
+1. Optimize underperforming routes
+
+Investigate routes with consistently high average lead times and identify causes such as:
+
+Transportation constraints
+Distribution-center capacity
+Geographic distance
+Carrier performance
+Order processing delays
+2. Improve shipping-mode allocation
+
+Compare shipping modes based on:
+
+Lead time
+Order volume
+Operational requirements
+Cost considerations
+3. Monitor regional bottlenecks
+
+Regions with consistently high lead times should receive additional operational analysis.
+
+4. Establish lead-time monitoring
+
+Use threshold-based monitoring to identify potentially delayed shipments.
+
+5. Use route-level KPIs
+
+Track route performance regularly using:
+
+Average lead time
+Median lead time
+Route volume
+Delay frequency
+Efficiency score
+⚠️ Data Quality Considerations
+
+The source dataset should be validated before using the analytical results for real-world operational or policy decisions.
+
+In particular, Order Date and Ship Date should be checked for:
+
+Incorrect dates
+Missing dates
+Data-entry errors
+Unusually large lead times
+Business-rule inconsistencies
+
+Large or unusual lead-time values may significantly influence averages and route rankings.
+
+📚 Project Documentation
+
+Additional documentation includes:
+
+Research paper
+Power BI dashboard
+Streamlit dashboard
+Dataset documentation
+Dashboard screenshots
+
+👨‍💻 Skills Demonstrated
+
+This project demonstrates practical experience in:
+Data cleaning
+Exploratory Data Analysis
+Business intelligence
+KPI development
+DAX
+Data visualization
+Geographic analytics
+Logistics analytics
+Interactive dashboard development
+Python analytics
+Streamlit application development
+Business reporting
+Data-driven recommendations
