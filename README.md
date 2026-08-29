@@ -171,8 +171,7 @@ The dashboard supports:
 Shipping lead time is calculated as:
 ```text
 Lead Time = Ship Date - Order Date
-
-
+```
 ---
 
 ## 📊 Power BI Dashboard
