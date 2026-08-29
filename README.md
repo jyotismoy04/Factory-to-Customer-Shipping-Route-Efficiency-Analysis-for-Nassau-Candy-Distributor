@@ -199,29 +199,18 @@ Lead-time threshold controls
 
 The project follows the following analytical workflow:
 
-Raw Shipment Data
-       ↓
-Data Cleaning
-       ↓
-Data Type Validation
-       ↓
-Lead-Time Calculation
-       ↓
-Exploratory Data Analysis
-       ↓
-Route Analysis
-       ↓
-Regional Analysis
-       ↓
-Ship Mode Analysis
-       ↓
-KPI Development
-       ↓
-Interactive Dashboard
-       ↓
-Operational Insights
-       ↓
-Recommendations
+Raw Shipment Data,
+Data Cleaning, 
+Data Type Validation,
+Lead-Time Calculation,
+Exploratory Data Analysis,
+Route Analysis,
+Regional Analysis,
+Ship Mode Analysis,
+KPI Development,
+Interactive Dashboard,
+Operational Insights,
+Recommendations,
 
 
 
@@ -229,28 +218,17 @@ Recommendations
 
 The project follows the following analytical workflow:
 
-Raw Shipment Data
-       ↓
-Data Cleaning
-       ↓
-Data Type Validation
-       ↓
-Lead-Time Calculation
-       ↓
-Exploratory Data Analysis
-       ↓
-Route Analysis
-       ↓
-Regional Analysis
-       ↓
-Ship Mode Analysis
-       ↓
-KPI Development
-       ↓
-Interactive Dashboard
-       ↓
-Operational Insights
-       ↓
+Raw Shipment Data,
+Data Cleaning,
+Data Type Validation,
+Lead-Time Calculation,
+Exploratory Data Analysis,
+Route Analysis,
+Regional Analysis,
+Ship Mode Analysis,
+KPI Development,
+Interactive Dashboard,
+Operational Insights,
 Recommendations
 
 
@@ -278,6 +256,8 @@ Distribution-center capacity
 Geographic distance
 Carrier performance
 Order processing delays
+
+
 2. Improve shipping-mode allocation
 
 Compare shipping modes based on:
@@ -286,6 +266,7 @@ Lead time
 Order volume
 Operational requirements
 Cost considerations
+
 3. Monitor regional bottlenecks
 
 Regions with consistently high lead times should receive additional operational analysis.
@@ -303,6 +284,7 @@ Median lead time
 Route volume
 Delay frequency
 Efficiency score
+
 ⚠️ Data Quality Considerations
 
 The source dataset should be validated before using the analytical results for real-world operational or policy decisions.
@@ -343,3 +325,31 @@ Python analytics
 Streamlit application development
 Business reporting
 Data-driven recommendations
+
+📄 Project Deliverables
+Deliverable	Technology
+Interactive BI Dashboard	Power BI
+Live Analytics Dashboard	Python + Streamlit
+Research Paper	Microsoft Word
+Dataset Analysis	Python + Pandas
+KPI Framework	DAX
+Visual Analytics	Power BI + Plotly
+
+⭐ Future Enhancements
+
+Potential future improvements include:
+
+Predictive shipment-delay modeling
+Machine learning-based ETA prediction
+Automated anomaly detection
+Real-time logistics data integration
+Carrier performance scoring
+Cost-to-serve analysis
+Automated alerts for delayed shipments
+Cloud deployment
+Role-based dashboard access
+AI-assisted logistics recommendations
+
+
+Screenshots of Power BI dashboard..
+
