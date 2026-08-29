@@ -352,4 +352,4 @@ AI-assisted logistics recommendations
 
 
 Screenshots of Power BI dashboard..
-
+-<a href="https://github.com/jyotismoy04/Factory-to-Customer-Shipping-Route-Efficiency-Analysis-for-Nassau-Candy-Distributor/blob/main/Factory-to-Customer%20Shipping%20Route%20Efficiency%20Analysis%20for%20Nassau%20Candy%20Distributor.png"> Power BI dashboard</a>
